@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class ConexaoBanco {
     private static final String URL = "jdbc:mysql://localhost:3306/fretamento_db";
     private static final String USUARIO = "root";
-    private static final String SENHA = "X1a7b2605***"; // Se tiver senha, coloque aqui
+    private static final String SENHA = "SUA SENHA***";
 
     public static Connection conectar() {
         try {
