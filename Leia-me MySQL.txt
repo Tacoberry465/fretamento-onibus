@@ -1,0 +1,7 @@
+
+1) Precisa instalar o MySQL
+
+2) Criar o banco de dados com o mesmo nome --> mysql -u root -p -e "CREATE DATABASE fretamento_db;"
+
+3) Importar --> mysql -u root -p fretamento_db < fretamento_db.sql
+
